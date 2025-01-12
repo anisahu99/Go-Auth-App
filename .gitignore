@@ -1,0 +1,29 @@
+# Node.js / React Vite (Frontend)
+node_modules/
+dist/
+*.log
+.DS_Store
+
+# Go (Backend)
+*.exe
+*.out
+*.log
+*.test
+*.mod
+*.sum
+
+# Environment variables and sensitive files
+.env
+
+# OS-specific files
+*.swp
+*.swo
+Thumbs.db
+.vscode/
+
+# IDE files
+.idea/
+*.iml
+
+# Miscellaneous
+tmp/
