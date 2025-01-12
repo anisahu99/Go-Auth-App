@@ -9,8 +9,6 @@ dist/
 *.out
 *.log
 *.test
-*.mod
-*.sum
 
 # Environment variables and sensitive files
 .env
